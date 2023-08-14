@@ -1,2 +1,1 @@
-# PrepCourseHenry
-Este es un repositorio del modulo2 del PrepCouse de Henry
+Este es un ejemplo de como modificar un repositorio de manera local.
